@@ -1,7 +1,7 @@
 @use '../../scss/' as *;
 
 .footer {
-    background-image: url('https://pbs.twimg.com/profile_banners/1441809708709335040/1647176213/1500x500');
+    background-image: url("../../assets/images/items/footerImage.png");
     background-repeat: no-repeat;
     background-size: cover;
     .footer__body {
