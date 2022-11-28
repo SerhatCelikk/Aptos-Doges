@@ -40,7 +40,7 @@ const Footer = () => {
               </Link>
 
              {/* <p className="desc fs-18" data-aos="fade-up">
-                Aptos Doges NFTs are a collection of 1111 unique, randomly generated, and
+                Apto Doges NFTs are a collection of 1111 unique, randomly generated, and
                 beautifully illustrated NFTs on the Aptos ecosystem. Each NFT is a
                 collectible, and each one is a unique piece of art.
   </p> */}

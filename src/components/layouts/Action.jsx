@@ -6,7 +6,7 @@ const Action = () => {
     title: "Apto Doges NFT",
     desc: "Get your NFT now!",
     desc2:
-      "Aptos Doges NFTs are a collection of 1111 unique, randomly generated, and beautifully illustrated NFTs on the Aptos ecosystem. Each NFT is a collectible, and each one is a unique piece of art.",
+      "Apto Doges NFTs are a collection of 1111 unique, randomly generated, and beautifully illustrated NFTs on the Aptos ecosystem. Each NFT is a collectible, and each one is a unique piece of art.",
   });
 
   return (

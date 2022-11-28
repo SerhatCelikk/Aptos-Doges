@@ -6,9 +6,9 @@ import item from "../../assets/fake-data/item";
 
 const SliderOne = () => {
   const [datatext] = useState({
-    subtitle: "We are The Aptos Doges NFT",
+    subtitle: "We are The Apto Doges NFT",
     title: "Collect Next Generation NFTs Today",
-    desc: "The core values of Aptos Doges are honesty and transparency between founders and investors",
+    desc: "The core values of Apto Doges are honesty and transparency between founders and investors",
   });
 
   return (

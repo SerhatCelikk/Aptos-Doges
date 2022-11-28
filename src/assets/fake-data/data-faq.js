@@ -14,8 +14,8 @@ const dataFaq = [
         text: 'Because NFTs are unique and can be traded on the secondary market, they are very popular. NFTs are also a great way to make money.',
     },
     {
-        title: 'Are all Aptos Doges NFTs unique?',
-        text: 'Yes, all Aptos Doges NFTs are unique. Each NFT has a unique ID and is stored on the blockchain.',
+        title: 'Are all Apto Doges NFTs unique?',
+        text: 'Yes, all Apto Doges NFTs are unique. Each NFT has a unique ID and is stored on the blockchain.',
     },
 ]
 

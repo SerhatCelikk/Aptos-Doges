@@ -5,7 +5,7 @@ const Speciality = (props) => {
 
     const [datatext] = useState({
         subtitle: 'Our Speciality',
-        title: 'What is the utility of the Aptos Doges NFT?',
+        title: 'What is the utility of the Apto Doges NFT?',
         desc : 'We will never stop looking for ways to provide value to the people who believe in us.'
     })
 
