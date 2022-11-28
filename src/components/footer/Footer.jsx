@@ -46,17 +46,9 @@ const Footer = () => {
   </p> */}
               <ul className="social" >
                 
-                <li >
-                 <a href="https://twitter.com/animalclubnft" target="_blank">
-                    <i className="fab fa-telegram" ></i>
-                  </a>
-                </li><li>
-                 <a href="https://twitter.com/animalclubnft" target="_blank">
+                <li>
+                 <a href="https://twitter.com/AptoDoges" target="_blank">
                     <i className="fab fa-twitter" ></i>
-                  </a>
-                </li><li>
-                 <a href="https://twitter.com/animalclubnft" target="_blank">
-                    <i className="fab fa-discord" ></i>
                   </a>
                 </li>
                 
