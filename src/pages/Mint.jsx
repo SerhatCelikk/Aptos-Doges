@@ -225,7 +225,7 @@ const Mint = () => {
             </div>
             <img
               src={gif}
-              style={{ width: "400px", height: "400px", borderRadius: "50%" }}
+              style={{ width: "450px", height: "450px" }}
             />
             <div
               id="collection-info"

@@ -16,12 +16,14 @@
         position: fixed;
         top: 0;
         box-shadow: 1px 1px 5px 0px rgb(0 0 0 / 30%);
-        background: #D98E00;
+        //background: #D98E00;
         height: $header-shrink-height;
         
         
         
     }
+
+    
 
     .header__right {
         @include flex(center,flex-end);
@@ -270,7 +272,7 @@
         }
         .button {
             display: flex;
-            background-color: #33ddaa;
+            background-color: #6C6264;
             color: white;
             border: none;
             border-radius: 3rem;
@@ -322,8 +324,13 @@
     
 
     .menu-item.active > a ,
+    
     .current-item a {
-        color: $main-color;  
+        color: white; 
+        text-decoration: underline;
+        text-decoration-color:white;
+        text-decoration-thickness: 0.17rem; 
+        
     }
 }
 .one-page .header .header__right .main-nav .menu li {

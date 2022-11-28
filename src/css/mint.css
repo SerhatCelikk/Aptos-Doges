@@ -23,7 +23,7 @@
 }
 
 .button {
-  background-color: #33ddaa;
+  background-color: #383535;
   color: white;
   border: none;
   border-radius: 3rem;
@@ -34,11 +34,11 @@
 }
 
 .button:hover {
-  background: #389478;
+  background:#fbaa03;
 }
 
 .button:disabled {
-  background: #333333;
+  background: #383535;
   cursor: not-allowed;
 }
 
@@ -117,7 +117,7 @@
 .connectWalletBtn {
   width: 100%;
   color: white;
-  background: #33ddaa;
+  background: #6C6264;
   border: none;
   border-radius: .5rem;
   display: flex;
@@ -156,7 +156,7 @@
 
 .walletAdapterOption {
   color: white;
-  background: #33ddaa;
+  background: #6C6264;
   border: none;
   display: flex;
   justify-content: center;

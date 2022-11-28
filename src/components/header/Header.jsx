@@ -5,6 +5,7 @@ import menus from "../../pages/menu";
 import './header.scss';
 import {useWallet} from "@manahippo/aptos-wallet-adapter"
 import logo from '../../assets/fake-data/logo';
+import whitelogo from '../../assets/fake-data/whitelogo';
 import ButtonOne from '../button/ButtonOne';
 import ConnectWalletButton from '../../helpers/Aptos/ConnectWalletButton';
 import ConnectWalletModal from '../../helpers/Aptos/ConnectWalletModal';
@@ -43,9 +44,9 @@ const Header = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="header__body d-flex justify-content-between">
-                            <div className="header__logo">
+                            <div className="header__logo" >
                                 <Link to="/">
-                                    <img id="site-logo" src={logo}
+                                    <img id="site-logo" src={whitelogo} style={{width:"60%"}}
                                     alt="Monteno"  />
                                 </Link>
                             </div>

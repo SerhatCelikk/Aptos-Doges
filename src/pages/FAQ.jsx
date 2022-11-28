@@ -17,7 +17,7 @@ const FAQ = () => {
                     <div className="col-md-12">
                         <div className="page-title__body rm">
                             <div className="block-text pt-12">
-                                <h2 className="sub-title mb-20">FAQ</h2>
+                                <h2 className="sub-title mb-20" >FAQ</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
                             <img src={img} alt="Monteno" />

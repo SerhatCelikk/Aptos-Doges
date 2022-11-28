@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "./footer.scss";
 
 import logo from "../../assets/fake-data/logo";
+import whitelogo from "../../assets/fake-data/whitelogo";
 
 const Footer = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -32,17 +33,17 @@ const Footer = () => {
     <>
       <footer className="footer">
         <div className="container">
-          <div className="row">
+          <div className="row" >
             <div className="footer__body">
-              <Link to="/">
-                <img id="Animals" src={logo} alt="The Animal Club" data-aos="fade-down" />
+              <Link  clasName="link"to="/">
+                <img className="img" id="Animals" src={logo} alt="The Animal Club" data-aos="fade-down" style={{width:"30%"}} />
               </Link>
 
-              <p className="desc fs-18" data-aos="fade-up">
+             {/* <p className="desc fs-18" data-aos="fade-up">
                 Aptos Doges NFTs are a collection of 1111 unique, randomly generated, and
                 beautifully illustrated NFTs on the Aptos ecosystem. Each NFT is a
                 collectible, and each one is a unique piece of art.
-              </p>
+  </p> */}
               <ul className="social" >
                 
                 <li >

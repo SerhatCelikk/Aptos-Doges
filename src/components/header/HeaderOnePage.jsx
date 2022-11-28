@@ -40,9 +40,9 @@ const HeaderOnePage = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="header__body d-flex justify-content-between">
-                            <div className="header__logo">
+                            <div className="header__logo" >
                                 <Link to="/">
-                                    <img id="site-logo" src={logo}
+                                    <img id="site-logo" src={logo} 
                                     alt="Monteno"  />
                                 </Link>
                             </div>

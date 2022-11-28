@@ -16,35 +16,35 @@ import img14 from '../images/items/item-25.png'
 const dataMontono = [
     {
         img: img1,
-        title: 'Cherokee Puppy'
+        title: '"Winter is my favorite"',
     },
     {
         img: img2,
-        title: 'Business Bear'
+        title: '"Cigar makes me happy"',
     },
     {
         img: img3,
-        title: 'Pirate Wolf'
+        title: '"I am look like angel"',
     },
     {
         img: img4,
-        title: 'MCDonalds Lion'
+        title: '"Eternal Sunshine of the Spotted Doge"'
     },
     {
         img: img5,
-        title: 'Party Mouse'
+        title: '"I love ruby"'
     },
     {
         img: img6,
-        title: 'Hipster Horse'
+        title: '"Hrrr... I am hungry"'
     },
     {
         img: img7,
-        title: 'Angel Frog'
+        title: '"Dollar solves everything"'
     },
     {
         img: img8,
-        title: 'Casual Dog'
+        title: '"Best life, THUG LIFE"'
     },
     {
         img: img9,

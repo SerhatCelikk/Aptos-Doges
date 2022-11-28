@@ -7,7 +7,7 @@ import item from "../../assets/fake-data/item";
 const About = () => {
   const [data] = useState({
     subtitle: "About Us",
-    title: "Hight Quality NFT  Collections",
+    title: "High Quality NFT  Collections",
     desc1:
       "The goal of Aptos Doges is to create a community of like-minded people interested in the Aptos ecosystem. A place where we can share information, lessons and ideas. We really want to solidify our community is one of the OGs of Aptos. A community that newcomers as well as veteran investors can look up to.",
     desc2:

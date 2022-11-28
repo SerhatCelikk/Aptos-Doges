@@ -23,7 +23,7 @@
 }
 
 .button {
-  background-color: #33ddaa;
+  background-color: #6C6264;
   color: white;
   border: none;
   border-radius: 0.3rem;
@@ -113,7 +113,7 @@
 .connectWalletBtn {
   width: 100%;
   color: white;
-  background: #33ddaa;
+  background: #6C6264;
   border: none;
   border-radius: 0.3rem;
   display: flex;
@@ -142,7 +142,7 @@
 
 .modal-content {
   width: fit-content;
-  background: #214249;
+  background: #403133;
   color: white;
   padding: 0px;
   margin: 0 auto;
@@ -150,7 +150,7 @@
 
 .walletAdapterOption {
   color: white;
-  background: #33ddaa;
+  background: #6C6264;
   border: none;
   display: flex;
   justify-content: center;
@@ -198,6 +198,6 @@
   align-items: center;
 }
 #modalbody {
-  background-color: #214249;
-  border: solid #33ddaa;
+  background-color: #403133;
+  border: solid #6C6264;
 }

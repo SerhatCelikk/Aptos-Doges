@@ -106,15 +106,7 @@ const SliderOne = () => {
                     />
                   </div>
                 </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item14}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
+                
               </Swiper>
               <Swiper
                 modules={[Autoplay]}
@@ -130,6 +122,15 @@ const SliderOne = () => {
                 }}
                 speed={2000}
               >
+                <SwiperSlide>
+                  <div className="item ">
+                    <img
+
+                      src={item.item7}
+                      alt="Monteno"
+                    />
+                  </div>
+                </SwiperSlide>
                 <SwiperSlide>
                   <div className="item ">
                     <img
@@ -175,24 +176,7 @@ const SliderOne = () => {
                     />
                   </div>
                 </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item17}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item7}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
+                
               </Swiper>
               <Swiper
                 modules={[Autoplay]}
@@ -207,6 +191,24 @@ const SliderOne = () => {
                 }}
                 speed={2000}
               >
+                <SwiperSlide>
+                  <div className="item ">
+                    <img
+
+                      src={item.item13}
+                      alt="Monteno"
+                    />
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <div className="item ">
+                    <img
+
+                      src={item.item14}
+                      alt="Monteno"
+                    />
+                  </div>
+                </SwiperSlide>
                 <SwiperSlide>
                   <div className="item ">
                     <img
@@ -229,7 +231,7 @@ const SliderOne = () => {
                   <div className="item ">
                     <img
 
-                      src={item.item13}
+                      src={item.item17}
                       alt="Monteno"
                     />
                   </div>
@@ -243,33 +245,7 @@ const SliderOne = () => {
                     />
                   </div>
                 </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item19}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item20}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  <div className="item ">
-                    <img
-
-                      src={item.item21}
-                      alt="Monteno"
-                    />
-                  </div>
-                </SwiperSlide>
+                
               </Swiper>
             </div>
           </div>
