@@ -227,7 +227,7 @@ const Mint = () => {
               src={gif}
               style={{ width: "450px", height: "450px" }}
             />
-            <div
+            {/*<div
               id="collection-info"
               className="d-flex flex-column align-items-center text-white"
               style={{ width: "80%" }}
@@ -325,7 +325,9 @@ const Mint = () => {
                   </div>
                 </>
               )}
-            </div>
+                    </div> */}
+
+                    <div style={{padding:"2%", fontSize:"75px", marginLeft:"3%"}}> COMING SOON...</div>
 
             <Modal
               id="mint-results-modal"
