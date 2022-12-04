@@ -227,7 +227,7 @@ const Mint = () => {
               src={gif}
               style={{ width: "450px", height: "450px" }}
             />
-            {/*<div
+            <div
               id="collection-info"
               className="d-flex flex-column align-items-center text-white"
               style={{ width: "80%" }}
@@ -290,7 +290,7 @@ const Mint = () => {
                     minted
                   </h5>
                   <div className="d-flex flex-column align-items-center my-3">
-                    <h3 className="fs-24">
+                    {/* <h3 className="fs-24">
                       Presale In :{" "}
                       <span id="live">
                         {timeLeftToMint.presale === "LIVE"
@@ -304,7 +304,7 @@ const Mint = () => {
                             timeLeftToMint.presale.seconds +
                             " seconds"}
                       </span>
-                    </h3>
+                    </h3> */}
                   </div>
                   <div className="d-flex flex-column align-items-center my-3 mt-0 ">
                     <h3 className="fs-24">
@@ -325,9 +325,9 @@ const Mint = () => {
                   </div>
                 </>
               )}
-                    </div> */}
+                    </div> 
 
-                    <div style={{padding:"2%", fontSize:"75px", marginLeft:"3%"}}> COMING SOON...</div>
+                    {/* <div style={{padding:"2%", fontSize:"75px", marginLeft:"3%"}}> COMING SOON...</div> */}
 
             <Modal
               id="mint-results-modal"

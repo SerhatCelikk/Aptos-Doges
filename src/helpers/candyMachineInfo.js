@@ -1,11 +1,11 @@
-export const candyMachineAddress = "0x87373738b1c964648b33191e26b40fd4cb5ce1439f4961bb2d3af035af799c66";
-export const collectionName = "TestCollection101"; // Case sensitive!
+export const candyMachineAddress = "0x24b790dd80a3c935672378ba1017ac787c7aa4f725a113da780c02a26309dbc5";
+export const collectionName = "AptoDoges"; // Case sensitive!
 export const collectionCoverUrl = "https://i.ibb.co/crZ5px7/480.jpg";
 export const mode = "mainnet"; // "dev" or "test" or "mainnet"
 
 export let NODE_URL;
-export const CONTRACT_ADDRESS = "0xf7b81362cb099f5f48df721dd2db9bd2c1832b31394540101acdb91e1d7b4d4a";
-export const COLLECTION_SIZE = 2
+export const CONTRACT_ADDRESS = "0xc071ef709539f7f9372f16050bf984fe6f11850594b8394f11bc74d22f48836b";
+export const COLLECTION_SIZE = 1111
 let FAUCET_URL;
 if (mode == "dev") {
     NODE_URL = "https://fullnode.devnet.aptoslabs.com/v1";
