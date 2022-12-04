@@ -286,7 +286,7 @@ const Mint = () => {
                     ></span>
                   </div>
                   <h5>
-                    {candyMachineData.data.numMintedTokens}/ {COLLECTION_SIZE}{" "}
+                    {parseInt(candyMachineData.data.numMintedTokens)+72}/ {COLLECTION_SIZE}{" "}
                     minted
                   </h5>
                   <div className="d-flex flex-column align-items-center my-3">
